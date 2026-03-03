@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420">
+    <rect width="100%" height="100%" fill="white"/>
+    <text x="400.0" y="30" text-anchor="middle" font-size="20">Customer Distribution by City</text>
+    <line x1="60" y1="360" x2="740" y2="360" stroke="black"/>
+    <line x1="60" y1="60" x2="60" y2="360" stroke="black"/>
+    <rect x="65.0" y="287.3" width="160.0" height="72.7" fill="#4C78A8"/><rect x="235.0" y="60.0" width="160.0" height="300.0" fill="#4C78A8"/><rect x="405.0" y="233.6" width="160.0" height="126.4" fill="#4C78A8"/><rect x="575.0" y="290.3" width="160.0" height="69.7" fill="#4C78A8"/>
+    <text x="67.0" y="375" font-size="10" transform="rotate(25 67.0,375)">chicago</text><text x="237.0" y="375" font-size="10" transform="rotate(25 237.0,375)">new york</text><text x="407.0" y="375" font-size="10" transform="rotate(25 407.0,375)">los angeles</text><text x="577.0" y="375" font-size="10" transform="rotate(25 577.0,375)">houston</text>
+</svg>
