@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420">
+    <rect width="100%" height="100%" fill="white"/>
+    <text x="400.0" y="30" text-anchor="middle" font-size="20">Overdue Rate by Employment Status</text>
+    <line x1="60" y1="360" x2="740" y2="360" stroke="black"/>
+    <line x1="60" y1="60" x2="60" y2="360" stroke="black"/>
+    <rect x="65.0" y="202.0" width="216.7" height="158.0" fill="#4C78A8"/><rect x="291.7" y="60.0" width="216.7" height="300.0" fill="#4C78A8"/><rect x="518.3" y="197.4" width="216.7" height="162.6" fill="#4C78A8"/>
+    <text x="67.0" y="375" font-size="10" transform="rotate(25 67.0,375)">employed</text><text x="293.7" y="375" font-size="10" transform="rotate(25 293.7,375)">unemployed</text><text x="520.3" y="375" font-size="10" transform="rotate(25 520.3,375)">self-employed</text>
+</svg>
